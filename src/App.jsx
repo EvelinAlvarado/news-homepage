@@ -6,7 +6,7 @@ import { Footer } from "./components/Footer";
 
 function App() {
   return (
-    <main className="px-4 py-6">
+    <main className="px-4 py-6 max-w-7xl mx-auto">
       <Header />
       <section className="lg:flex lg:gap-8">
         <MainArticle />
