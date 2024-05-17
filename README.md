@@ -41,7 +41,6 @@ This project is a responsive news website built with React and Tailwind CSS. It 
 
 ## Additional Information
 
-- Data for the advice geterator app was provided by a [Advice Slip JSON API](https://api.adviceslip.com/).
 - Icons used in the project are sourced from [svgrepo.com](https://www.svgrepo.com/) and [react icons](https://react-icons.github.io/react-icons/).
 - Challenge by [Frontend Mentor](https://www.frontendmentor.io).
 
